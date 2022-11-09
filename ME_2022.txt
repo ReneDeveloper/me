@@ -4,14 +4,11 @@ Now: Data Engineer Next Level: Improving Data Scientist and Bilingual skills
 Data SkillsDBA/ETL/Java & Python Developer, Scraping, Consuming REST APIs
 Newest Skills  MultiCLOUD / DEVOPS / Sensors data capture and proccesing
 
-
-
 Computer Engineer – Universidad de Santiago 
 TI Project Manager certified – Universidad de Chile 
 Now: DBA Data Engineer Next Level: Improving Data Scientist and Bilingual skills
 Data Skills ETL/Java & Python Developer, Scraping, Consuming REST APIs, Multi CLOUD.
 Newest Skills  DEVOPS / Sensor data capture
-
 
 Data Engineer with Senior DBA skills, ETL & Pipeline Developer, data integrator from/to the CLOUD, experience at 
 Walmart integrations and migrations of a lot of TeraBytes of Transactional data into Warehouses and Datalakes. 
