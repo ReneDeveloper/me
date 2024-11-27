@@ -1,0 +1,17 @@
+CERTIFICADOS_SENCE.txt
+
+2818773 DIPLOMADO EN GESTIÓN PROYECTOS INFORMÁTICOS     
+Ver certificado
+3585038 Implementación y Mantenimiento de Microsoft SQL Server Reporting Services       
+Ver certificado
+3620886 Diseño de un Servidor Microsoft SQL, Soluciones de Servidor, y Diseño de niveles de Datos para Servidor Microsoft SQL       
+Ver certificado
+4578663 Proceso de Programación usando el CRM de Microsoft Dynamics     
+Ver certificado
+4760593 Servicio y Satisfacción del Cliente     
+Ver certificado
+4878661 Negociación Avanzada        
+Ver certificado
+5464056 Administrando La Seguridad En Las Redes Computacionales     
+Ver certificado
+
